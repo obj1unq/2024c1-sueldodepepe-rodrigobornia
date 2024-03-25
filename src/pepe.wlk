@@ -70,6 +70,7 @@ object normal{
 	}
 }
 
+
 object ajuste{
 	method resultado(empleado){
 	return if (empleado.faltas() == 0){
