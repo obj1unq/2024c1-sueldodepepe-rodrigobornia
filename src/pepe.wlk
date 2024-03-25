@@ -95,4 +95,5 @@ object presentimoNulo{
 	method resultado(empleado){
 		return 0
 		}	
-}
+}   
+

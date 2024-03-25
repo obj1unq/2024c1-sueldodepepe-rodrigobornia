@@ -1,6 +1,6 @@
 import pepe.*
 
- 
+  
 	
 	test "pepe cadete, monto fijo, presentismo normal" {
 		pepe.categoria(cadete)
